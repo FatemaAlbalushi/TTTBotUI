@@ -1,27 +1,33 @@
+<!--
+  This is the HTML code for a simple Tic Tac Toe game page.
+  The page contains a game board with 9 squares, a message indicating whose turn it is, and a restart button.
+  @version 1.0.0
+  @since 2023-03-19
+-->
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
     <title>Tic Tac Toe</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css"> <!-- link to the external stylesheet -->
   </head>
   <body>
     <div class="container">
       <h1>Tic Tac Toe</h1>
       <div class="board">
-        <div class="square"></div>
-      <div class="square"></div>
-      <div class="square"></div>
-      <div class="square"></div>
-      <div class="square"></div>
-      <div class="square"></div>
-      <div class="square"></div>
-      <div class="square"></div>
-      <div class="square"></div>
+        <div class="square"></div> <!-- The first square of the board -->
+        <div class="square"></div> <!-- The second square of the board -->
+        <div class="square"></div> <!-- The third square of the board -->
+        <div class="square"></div> <!-- The fourth square of the board -->
+        <div class="square"></div> <!-- The fifth square of the board -->
+        <div class="square"></div> <!-- The sixth square of the board -->
+        <div class="square"></div> <!-- The seventh square of the board -->
+        <div class="square"></div> <!-- The eighth square of the board -->
+        <div class="square"></div> <!-- The ninth square of the board -->
       </div>
       <div id="message" aria-live="polite">Player X's turn</div> <!-- The status of the game, indicating whose turn it is -->
     <button id="restart">Restart</button> <!-- A button to restart the game -->
     </div>
-    <script src="script.js"></script>
+    <script src="script.js"></script>  <!-- link to the JavaScript file for the game logic -->
   </body>
 </html>
