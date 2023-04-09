@@ -1,0 +1,160 @@
+2023-03-19 08:56:19.945 INFO  c.T.t.TictactoeBotUiApplication - Starting TictactoeBotUiApplication using Java 17.0.2 with PID 12900 (C:\Users\LAP-10\Documents\tictactoeBotUi\target\classes started by LAP-10 in C:\Users\LAP-10\Documents\tictactoeBotUi)
+2023-03-19 08:56:19.956 INFO  c.T.t.TictactoeBotUiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 08:56:21.735 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-19 08:56:21.751 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-19 08:56:21.753 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-19 08:56:21.753 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-19 08:56:21.944 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-19 08:56:21.945 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1828 ms
+2023-03-19 08:56:22.543 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-19 08:56:22.573 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-19 08:56:22.597 INFO  c.T.t.TictactoeBotUiApplication - Started TictactoeBotUiApplication in 3.416 seconds (process running for 4.453)
+2023-03-19 08:59:42.422 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-19 08:59:42.423 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-19 08:59:42.424 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2023-03-19 09:10:52.611 INFO  c.T.t.TictactoeBotUiApplication - Starting TictactoeBotUiApplication using Java 17.0.2 with PID 11940 (C:\Users\LAP-10\Documents\tictactoeBotUi\target\classes started by LAP-10 in C:\Users\LAP-10\Documents\tictactoeBotUi)
+2023-03-19 09:10:52.614 INFO  c.T.t.TictactoeBotUiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 09:10:53.893 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-19 09:10:53.907 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:10:53.909 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-19 09:10:53.909 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-19 09:10:54.012 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-19 09:10:54.012 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1341 ms
+2023-03-19 09:10:54.358 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:10:54.382 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-19 09:10:54.395 INFO  c.T.t.TictactoeBotUiApplication - Started TictactoeBotUiApplication in 2.106 seconds (process running for 2.797)
+2023-03-19 09:25:10.301 INFO  c.T.t.TictactoeBotUiApplication - Starting TictactoeBotUiApplication using Java 17.0.2 with PID 19108 (C:\Users\LAP-10\Documents\tictactoeBotUi\target\classes started by LAP-10 in C:\Users\LAP-10\Documents\tictactoeBotUi)
+2023-03-19 09:25:10.307 INFO  c.T.t.TictactoeBotUiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 09:25:11.745 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-19 09:25:11.757 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:25:11.760 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-19 09:25:11.760 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-19 09:25:11.898 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-19 09:25:11.899 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1523 ms
+2023-03-19 09:25:12.360 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 6e267723-88ff-4250-8d74-b67cfb768f3c
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-03-19 09:25:12.466 INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@26ca61bf, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@73a0f2b, org.springframework.security.web.context.SecurityContextHolderFilter@2c63762b, org.springframework.security.web.header.HeaderWriterFilter@13c8ac77, org.springframework.security.web.csrf.CsrfFilter@6a1ef65c, org.springframework.security.web.authentication.logout.LogoutFilter@36e43829, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@80b122b, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@3069a360, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@fa5f81c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@550e9be6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@78422efb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@d48e998, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a1d526c, org.springframework.security.web.access.ExceptionTranslationFilter@e784320, org.springframework.security.web.access.intercept.AuthorizationFilter@60e3c26e]
+2023-03-19 09:25:12.499 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:25:12.525 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-19 09:25:12.536 INFO  c.T.t.TictactoeBotUiApplication - Started TictactoeBotUiApplication in 2.653 seconds (process running for 3.406)
+2023-03-19 09:25:22.193 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-19 09:25:22.194 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-19 09:25:22.196 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-03-19 09:25:38.542 INFO  c.T.t.TictactoeBotUiApplication - Starting TictactoeBotUiApplication using Java 17.0.2 with PID 18204 (C:\Users\LAP-10\Documents\tictactoeBotUi\target\classes started by LAP-10 in C:\Users\LAP-10\Documents\tictactoeBotUi)
+2023-03-19 09:25:38.546 INFO  c.T.t.TictactoeBotUiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 09:25:40.073 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-19 09:25:40.082 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:25:40.082 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-19 09:25:40.084 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-19 09:25:40.197 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-19 09:25:40.197 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1590 ms
+2023-03-19 09:25:40.624 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 4accb891-4d16-4c45-8124-bd8cc0f81508
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-03-19 09:25:40.800 INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@26ca61bf, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@73a0f2b, org.springframework.security.web.context.SecurityContextHolderFilter@2c63762b, org.springframework.security.web.header.HeaderWriterFilter@13c8ac77, org.springframework.security.web.csrf.CsrfFilter@6a1ef65c, org.springframework.security.web.authentication.logout.LogoutFilter@36e43829, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@80b122b, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@3069a360, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@fa5f81c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@550e9be6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@78422efb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@d48e998, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a1d526c, org.springframework.security.web.access.ExceptionTranslationFilter@e784320, org.springframework.security.web.access.intercept.AuthorizationFilter@60e3c26e]
+2023-03-19 09:25:40.856 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:25:40.888 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-19 09:25:40.907 INFO  c.T.t.TictactoeBotUiApplication - Started TictactoeBotUiApplication in 2.743 seconds (process running for 3.381)
+2023-03-19 09:25:44.075 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-19 09:25:44.075 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-19 09:25:44.077 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-03-19 09:28:27.355 INFO  c.T.t.TictactoeBotUiApplication - Starting TictactoeBotUiApplication using Java 17.0.2 with PID 18004 (C:\Users\LAP-10\Documents\tictactoeBotUi\target\classes started by LAP-10 in C:\Users\LAP-10\Documents\tictactoeBotUi)
+2023-03-19 09:28:27.359 INFO  c.T.t.TictactoeBotUiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 09:28:28.581 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-19 09:28:28.594 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:28:28.596 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-19 09:28:28.596 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-19 09:28:28.737 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-19 09:28:28.737 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1321 ms
+2023-03-19 09:28:29.539 INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@7af52ec7, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@77c1e611, org.springframework.security.web.context.SecurityContextHolderFilter@3d24420b, org.springframework.security.web.header.HeaderWriterFilter@60a7e509, org.springframework.security.web.csrf.CsrfFilter@fb0a08c, org.springframework.security.web.authentication.logout.LogoutFilter@101ca8da, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@2539cd1c, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@6cd15072, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@12c0c0b3, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7bcecef6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@53ce2392, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7f7b6639, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5a97b17c, org.springframework.security.web.access.ExceptionTranslationFilter@40c2ce52, org.springframework.security.web.access.intercept.AuthorizationFilter@53c99b09]
+2023-03-19 09:28:29.590 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:28:29.680 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-19 09:28:29.698 INFO  c.T.t.TictactoeBotUiApplication - Started TictactoeBotUiApplication in 2.679 seconds (process running for 3.226)
+2023-03-19 09:28:38.140 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-19 09:28:38.142 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-19 09:28:38.144 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-03-19 09:43:40.748 INFO  c.T.t.TictactoeBotUiApplication - Starting TictactoeBotUiApplication using Java 17.0.2 with PID 20132 (C:\Users\LAP-10\Documents\tictactoeBotUi\target\classes started by LAP-10 in C:\Users\LAP-10\Documents\tictactoeBotUi)
+2023-03-19 09:43:40.752 INFO  c.T.t.TictactoeBotUiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 09:43:42.088 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-19 09:43:42.105 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:43:42.107 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-19 09:43:42.107 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-19 09:43:42.217 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-19 09:43:42.218 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1396 ms
+2023-03-19 09:43:42.715 INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@12a2585b, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@21b6c9c2, org.springframework.security.web.context.SecurityContextHolderFilter@29fd8e67, org.springframework.security.web.header.HeaderWriterFilter@6ed922e1, org.springframework.web.filter.CorsFilter@309cedb6, org.springframework.security.web.authentication.logout.LogoutFilter@65eb76cd, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@329548d0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4bd5849e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7cdbaa50, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3b95a6db, org.springframework.security.web.access.ExceptionTranslationFilter@4b5a078a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@33feb805]
+2023-03-19 09:43:42.872 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:43:42.897 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-19 09:43:42.909 INFO  c.T.t.TictactoeBotUiApplication - Started TictactoeBotUiApplication in 2.583 seconds (process running for 3.281)
+2023-03-19 09:43:49.590 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-19 09:43:49.590 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-19 09:43:49.591 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2023-03-19 09:47:09.737 INFO  c.T.t.TictactoeBotUiApplication - Starting TictactoeBotUiApplication using Java 17.0.2 with PID 23096 (C:\Users\LAP-10\Documents\tictactoeBotUi\target\classes started by LAP-10 in C:\Users\LAP-10\Documents\tictactoeBotUi)
+2023-03-19 09:47:09.741 INFO  c.T.t.TictactoeBotUiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 09:47:10.879 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-19 09:47:10.893 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:47:10.894 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-19 09:47:10.895 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-19 09:47:11.004 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-19 09:47:11.004 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1165 ms
+2023-03-19 09:47:11.387 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-19 09:47:11.464 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-19 09:47:11.476 INFO  c.T.t.TictactoeBotUiApplication - Started TictactoeBotUiApplication in 2.114 seconds (process running for 2.746)
+2023-03-19 09:47:23.562 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-19 09:47:23.563 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-19 09:47:23.565 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-19 09:47:25.307 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:52:29.990 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:53:00.177 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2023-03-19 09:53:23.996 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:53:34.506 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2023-03-19 09:55:32.676 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:35.213 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:39.219 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:40.877 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:40.878 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:42.141 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:43.508 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:43.509 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:43.510 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:52.482 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:52.483 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:52.484 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:52.484 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:52.484 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:54.971 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 09:55:54.972 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:52:57.288 INFO  c.T.t.TictactoeBotUiApplication - Starting TictactoeBotUiApplication using Java 17.0.2 with PID 5808 (C:\Users\LAP-10\Documents\tictactoeBotUi\target\classes started by LAP-10 in C:\Users\LAP-10\Documents\tictactoeBotUi)
+2023-03-19 10:52:57.293 INFO  c.T.t.TictactoeBotUiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-19 10:52:58.594 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-19 10:52:58.606 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-19 10:52:58.606 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-19 10:52:58.607 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-19 10:52:58.703 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-19 10:52:58.704 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1342 ms
+2023-03-19 10:52:59.070 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-19 10:52:59.093 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-19 10:52:59.103 INFO  c.T.t.TictactoeBotUiApplication - Started TictactoeBotUiApplication in 2.25 seconds (process running for 2.979)
+2023-03-19 10:53:37.810 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-19 10:53:37.811 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-19 10:53:37.812 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-19 10:53:40.616 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:53:41.932 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:53:41.933 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:53:41.933 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:56:29.907 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:56:30.996 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:56:30.996 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:56:30.996 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:58:37.390 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:58:47.484 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:58:47.485 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:58:47.486 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:58:47.487 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
+2023-03-19 10:58:54.120 INFO  c.T.tictactoeBotUi.Service.Bot - Bot Make move
